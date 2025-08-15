@@ -2,10 +2,10 @@
     {
         "Name": "react-native-map-clustering",
         "License": "MIT License",
-        "License File": "https://github.com/react-native-oh-library/react-native-map-clustering/blob/sig/LICENSE",
-        "Version Number": "3.4.2-0.0.1",
+        "License File": "https://github.com/tomekvenits/react-native-map-clustering/blob/master/LICENSE",
+        "Version Number": "3.4.0",
         "Owner" : "xiafeng@huawei.com",
-        "Upstream URL": "https://github.com/react-native-oh-library/react-native-map-clustering",
+        "Upstream URL": "https://github.com/tomekvenits/react-native-map-clustering",
         "Description": "React Native Map Clustering both for Android and iOS"
     }
 ]

@@ -1,4 +1,4 @@
-# @react-native-oh-tpl/react-native-map-clustering
+# @react-native-ohos/react-native-map-clustering
 
 This project is based on [react-native-map-clustering](https://github.com/venits/react-native-map-clustering)
 
