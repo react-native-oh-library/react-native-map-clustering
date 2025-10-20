@@ -1,6 +1,6 @@
 # @react-native-ohos/react-native-map-clustering
 
-This project is based on [react-native-map-clustering](https://github.com/venits/react-native-map-clustering)
+This project is based on [react-native-map-clustering@v3.4.0](https://github.com/tomekvenits/react-native-map-clustering/tree/3.4.0)
 
 ## Documentation
 
