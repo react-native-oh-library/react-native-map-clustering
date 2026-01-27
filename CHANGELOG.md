@@ -2,6 +2,10 @@
 
 ## 鸿蒙化Log
 
+### v3.5.0
+
+- release version 3.5.0
+
 ### v3.5.0-rc.1
 
 - pre-release version 3.5.0-rc.1
