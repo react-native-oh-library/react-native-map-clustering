@@ -4,7 +4,7 @@
     "alias": "react-native-map-clustering",
     "redirectInternalImports": true
   },
-  "version": "3.5.0",
+  "version": "4.0.0",
   "description": "React Native Map Clustering both for Android and iOS",
   "types": "index.d.ts",
   "main": "index.js",
@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/react-native-oh-library/react-native-map-clustering/tree/br_rnoh0.77#readme",
   "dependencies": {
-    "supercluster": "^7.1.0",
+    "supercluster": "^8.0.0",
     "@mapbox/geo-viewport": "^0.4.1"
   },
   "peerDependencies": {
