@@ -4,7 +4,7 @@
     "alias": "react-native-map-clustering",
     "redirectInternalImports": true
   },
-  "version": "4.1.0-rc.1",
+  "version": "4.1.0-beta.1",
   "description": "React Native Map Clustering both for Android and iOS",
   "types": "index.d.ts",
   "main": "index.js",
